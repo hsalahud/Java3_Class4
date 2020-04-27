@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89894ba0-407f-4ce6-9e04-0f4d7012a8b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="89894ba0-407f-4ce6-9e04-0f4d7012a8b8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -319,30 +313,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1587949536241">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1587950688193">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587949536241" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587950688193" />
     <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587949276611" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1587949536240">
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1587950688192">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587949536240" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587950688192" />
     <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587949276610" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1587949536240">
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1587950688192">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587949536240" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587950688192" />
     <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587949276610" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1587949536241">
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1587950688193">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587949536241" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587950688193" />
     <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587949276611" />
     <state x="328" y="82" key="SettingsEditor" timestamp="1587949531491">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="328" y="82" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1587949531491" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/twitimage$Java3_Class4__test_.ic" NAME="Java3_Class4 [test] Coverage Results" MODIFIED="1587950679819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="" />
